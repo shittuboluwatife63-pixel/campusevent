@@ -17,7 +17,7 @@ html {
 body {
   margin: 0;
   background: #f8fafc;
-  color: #0f172a;
+  color: pink;
   font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
@@ -41,7 +41,7 @@ input {
 
 .event-card:hover {
   transform: translateY(-5px);
-  border-color: #c7d2fe;
+  border-color: brown;
   box-shadow: 0 18px 35px -18px rgb(51 65 85 / 30%);
 }
 
